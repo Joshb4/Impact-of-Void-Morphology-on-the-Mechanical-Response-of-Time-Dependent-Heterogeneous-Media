@@ -2,5 +2,6 @@
 
 The codes presented are all designed to generate a random amount of air voids with differing geometry and amount dependent
 on the desired output.
-They will output a file(s) in which the contents must be copied over to another text file to be converted into a Python script.
-This script will then be run in Abaqus CAE
+Each opens and reads the COORDSALLAGG.xls file in each folder to plot the aggregates. 
+They will output a file(s) in which the contents must be combined in another text file to be converted into a Python script.
+This script will then be run in Abaqus CAE.
