@@ -13,4 +13,4 @@ This controls the number of vertices each void has.
 The sixth parameter is offset.
 This controls how far apart the voids are from each other.
 The seventh parameter is the target air void area percentage the code will generate.
-This code will generate 2 output files named Vertices_of_Polygones_Voids and Line_connector_of_Polygones_of_Vertices_of_voids.
+This code will generate 2 output files named Vertices_of_Polygones_Voids and Line_connector_of_Polygones_of_Vertices_of_voids in the folder.
